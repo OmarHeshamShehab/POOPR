@@ -6,16 +6,16 @@ This repository contains a series of Python scripts designed to teach and demons
 
 - [Introduction](#introduction)
 - [Topics Covered](#topics-covered)
-  - [Class Basics](#1-class_basics)
-  - [Class Variables](#2-class_variables)
+  - [Class Basics](#1-class-basics)
+  - [Class Variables](#2-class-variables)
   - [Inheritance](#3-inheritance)
-  - [Multilevel Inheritance](#4-multilevel_inheritance)
-  - [Multiple Inheritance](#5-multiple_inheritance)
-  - [Method Overriding](#6-method_overriding)
-  - [Method Chaining](#7-method_chaining)
-  - [Super Function](#8-super_function)
-  - [Abstract Classes](#9-abstract_classes)
-  - [Objects as Arguments](#10-objects_as_arguments)
+  - [Multilevel Inheritance](#4-multilevel-inheritance)
+  - [Multiple Inheritance](#5-multiple-inheritance)
+  - [Method Overriding](#6-method-overriding)
+  - [Method Chaining](#7-method-chaining)
+  - [Super Function](#8-super-function)
+  - [Abstract Classes](#9-abstract-classes)
+  - [Objects as Arguments](#10-objects-as-arguments)
 
 ## Introduction
 
