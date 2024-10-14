@@ -16,6 +16,7 @@ This repository contains a series of Python scripts designed to teach and demons
   - [Super Function](#8-super-function)
   - [Abstract Classes](#9-abstract-classes)
   - [Objects as Arguments](#10-objects-as-arguments)
+  - [Decorators](#11-decorators)
 
 ## Introduction
 
@@ -94,3 +95,12 @@ Covers how objects can be passed as arguments to functions, allowing for more co
 
 File:
 - `Objects_as_Arguments.py`
+
+### 11. Decorators
+
+This section covers the use of decorators in Python. Decorators allow extending the behavior of functions without modifying them directly.
+
+In this example, two decorators, `add_sprinkles` and `add_fudge`, are applied to the `get_ice_cream` function, which enhances the behavior of serving ice cream by adding sprinkles and fudge.
+
+File:
+- `Decorators.py`
