@@ -17,6 +17,8 @@ This repository contains a series of Python scripts designed to teach and demons
   - [Abstract Classes](#9-abstract-classes)
   - [Objects as Arguments](#10-objects-as-arguments)
   - [Decorators](#11-decorators)
+  - [Static Methods](#12-static-methods)
+  - [Class Methods](#13-class-methods)
 
 ## Introduction
 
@@ -104,3 +106,17 @@ In this example, two decorators, `add_sprinkles` and `add_fudge`, are applied to
 
 File:
 - `Decorators.py`
+
+### 12. Static Methods
+
+This section demonstrates the use of static methods in Python. Static methods do not require access to the instance or class and are used for utility functions.
+
+File:
+- `Static_Method.py`
+
+### 13. Class Methods
+
+Explains the use of class methods in Python. Class methods can access and modify the class state that applies across all instances.
+
+File:
+- `Class_Methods.py`
